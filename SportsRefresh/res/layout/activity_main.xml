@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+ 
+
+
+	<TextView
+	    android:id="@+id/home_title"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/sports_refresh"
+	    style="@style/sports_refresh_text"
+
+	    />
+
+    
+    <Button 
+       	android:background="@drawable/search_button"
+        android:id="@+id/search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/home_button_search"
+        style="@style/button_text"	        
+        />
+    
+    
+
+
+</LinearLayout>

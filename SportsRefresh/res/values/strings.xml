@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sports Refresh</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sports_refresh">Sports Refresh</string>
+    <string name="search">Search</string>
+    <string name="zain_manji">Zain Manji</string>
+    <string name="search_hint">Search for keyword/phrase...</string>
+    <string name="home_button_search">View Latest Headlines</string>
+    
+    <string name="no_headlines_found">No headlines found.</string>
+    <string name="no_headline_link_found">No headline link found.</string>
+    <string name="enter_query">Search for headline</string>
+
+</resources>
